@@ -43,5 +43,7 @@ This repository contains the following ten chapters, and all the functions are w
 9. [
 Roberts, Prewitt, Sobel, Threshold, and Edge Detection
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection.pdf)
-[Otus, Moving Average, and Region Growing](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing.pdf)
+10. [
+Otus, Moving Average, and Region Growing
+](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing.pdf)
 
