@@ -14,7 +14,7 @@ This repository contains the following ten chapters, and all the functions are w
 
 [
     1. Average Filter and Median Filter
-]
+](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/1.%20Average%20Filter%20and%20Median%20Filter/Chapter%201.%20Average%20Filter%20and%20Median%20Filter.pdf)
 [
     2. Image Reduction, Enlargement and Negative
 ]
