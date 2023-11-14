@@ -5,6 +5,21 @@ Introduction to Digital Image Processing
 
 🌁 You've stumbled upon an beginner-friendly yet in-depth tutorial for **Digital Image Processing**. This repository is perfect for beginners and anyone curious about the inner workings of image processing techniques. While packages like `OpenCV` make these methods easily accessible, understanding the mechanics behind them can be both fascinating and enriching.
 
+
+Getting Started
+---------------
+
+🔍 Each chapter in this repository is accompanied by detailed reports that delve into the principles, formulas, and offer qualitative comparisons.
+
+![image](/static/1.png)
+
+![image](/static/2.png)
+
+![image](/static/3.png)
+
+If you find this repository helpful, please give me a star 🌟. Feel free to share it with others who might also benefit from it. Happy journey!
+
+
 Chapters
 --------
 📘 This repository meticulously follows the structure and content of "Digital Image Processing (3rd Edition)" by Rafael C. Gonzalez. It's crafted to complement this classic work, offering a practical, hands-on approach to the theories presented.
@@ -39,17 +54,3 @@ Roberts, Prewitt, Sobel, Threshold, and Edge Detection
 10. [
 Otus, Moving Average, and Region Growing
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing.pdf)
-
-
-Getting Started
----------------
-
-🔍 Each chapter in this repository is accompanied by detailed reports that delve into the principles, formulas, and offer qualitative comparisons.
-
-![image](/static/1.png)
-
-![image](/static/2.png)
-
-![image](/static/3.png)
-
-If you find this repository helpful, please give me a star 🌟. Feel free to share it with others who might also benefit from it. Happy journey!
