@@ -17,6 +17,8 @@ Getting Started
 
 ![image](/static/3.png)
 
+All images used in the comparisons can be found in the [`image`](/images/) folder.
+
 If you find this repository helpful, please give me a star 🌟. Feel free to share it with others who might also benefit from it. Happy journey!
 
 
