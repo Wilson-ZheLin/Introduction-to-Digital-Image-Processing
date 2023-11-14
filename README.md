@@ -3,7 +3,7 @@ Introduction to Digital Image Processing
 
 👋 Hello and Welcome! 
 
-🌁 You've stumbled upon an beginner-friendly yet in-depth tutorial for **Digital Image Processing**. This repository is perfect for beginners and anyone curious about the inner workings of image processing techniques. While packages like `OpenCV` make these methods easily accessible, understanding the mechanics behind them can be both fascinating and enriching.
+ You've stumbled upon an beginner-friendly yet in-depth tutorial for **Digital Image Processing**. This repository is perfect for beginners and anyone curious about the inner workings of image processing techniques. While packages like `OpenCV` make these methods easily accessible, understanding the mechanics behind them can be both fascinating and enriching.
 
 
 Getting Started
@@ -22,7 +22,7 @@ If you find this repository helpful, please give me a star 🌟. Feel free to sh
 
 Chapters
 --------
-📘 This repository meticulously follows the structure and content of "Digital Image Processing (3rd Edition)" by Rafael C. Gonzalez. It's crafted to complement this classic work, offering a practical, hands-on approach to the theories presented.
+📚 This repository meticulously follows the structure and content of "Digital Image Processing (3rd Edition)" by Rafael C. Gonzalez. It's crafted to complement this classic work, offering a practical, hands-on approach to the theories presented.
 
 1. [
     Average Filter and Median Filter
