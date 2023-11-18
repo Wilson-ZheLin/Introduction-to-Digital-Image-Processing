@@ -45,7 +45,7 @@ Chapters
     Low Pass Filter and High Pass Filter
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/6.%20Low%20Pass%20Filter%20and%20High%20Pass%20Filter/6.%20Low%20Pass%20Filter%20and%20High%20Pass%20Filter.pdf)
 7. [
-    Image Noise and Noise Reduction, Homomorphic Filter, and Band Stop Filter
+    Image Noise and Noise Reduction, Homomorphic and Band Stop Filter
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/7.%20Image%20Noise%20and%20Noise%20Reduction%2C%20Homomorphic%20Filter%2C%20and%20Band%20Stop%20Filter/7.%20Image%20Noise%20and%20Noise%20Reduction%2C%20Homomorphic%20Filter%2C%20and%20Band%20Stop%20Filter.pdf)
 8. [
     Erosion, Dilation, Opening, Closing, and Connection
