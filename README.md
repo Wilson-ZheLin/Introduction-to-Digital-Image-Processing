@@ -48,8 +48,8 @@ Chapters
     Noise and Noise Reduction, Homomorphic and Band Stop Filter
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/7.%20Image%20Noise%20and%20Noise%20Reduction%2C%20Homomorphic%20Filter%2C%20and%20Band%20Stop%20Filter/7.%20Image%20Noise%20and%20Noise%20Reduction%2C%20Homomorphic%20Filter%2C%20and%20Band%20Stop%20Filter.pdf)
 8. [
-    Erosion, Dilation, Opening, Closing, and Connection
-](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/8.%20Erosion%2C%20Dilation%2C%20Opening%2C%20Closing%2C%20and%20Connection/8.%20Erosion%2C%20Dilation%2C%20Opening%2C%20Closing%2C%20and%20Connection.pdf)
+    Erosion, Dilation, Opening, Closing, Boundary Extraction, and Connection
+](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/8.%20Erosion%2C%20Dilation%2C%20Opening%20and%20Closing%20Operations%2C%20Boundary%20Extraction%20and%20Connection/8.%20Erosion%2C%20Dilation%2C%20Opening%20and%20Closing%20Operations%2C%20Boundary%20Extraction%20and%20Connection.pdf)
 9. [
 Roberts, Prewitt, Sobel, Threshold, and Edge Detection
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection.pdf)
