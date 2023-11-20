@@ -11,23 +11,28 @@ Chapter 1. Average Filter and Median Filter
 Getting Started
 ---------------
 ### For MacOS:
-You might need to change the header `#include <mm_malloc.h>` to `#include <malloc.h>`:
 
-```#include <malloc.h>```
+To ensure compatibility with MacOS, update the **memory allocation header** `#include <mm_malloc.h>` to `#include <malloc.h>`:
+
+```
+#include <malloc.h>
+```
 
 ### For Windows:
 
-If you're using Windows, nothing needs to be changed, maintain:
+Windows users can retain the existing **memory allocation header**:
 
-```#include <mm_malloc.h>```
+```
+#include <mm_malloc.h>
+```
 
-### Input / Output Paths:
+### Configuring Input/Output Paths
 
-1. Modify the **input image path** in `main()` to suit your needs.
+1. **Set Input Path:** In the `main()` function, update the input image path according to your requirements.
 
-2. Uncomment the **functions** you want to use in `TestReadImage()` to process the image.
+2. **Enable Desired Functions:** In `TestReadImage()`, uncomment the functions you wish to use for image processing. Each function is documented for easy reference.
 
-3. Run the program.
+3. **Execute the Program:** Run your program to see the results.
 
 Tutorial Preview：
 -----------------
