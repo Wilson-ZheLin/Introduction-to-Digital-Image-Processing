@@ -1,5 +1,10 @@
-Digital Image Processing
-========================
+Digital Image Processing Tutorial (Chapter 1)
+=============================================
+
+👋 Hello and Welcome! 
+
+ You've stumbled upon an beginner-friendly yet in-depth tutorial for **Digital Image Processing**. This repository is perfect for beginners and anyone curious about the inner workings of image processing techniques. While packages like `OpenCV` make these methods easily accessible, understanding the mechanics behind them can be both fascinating and enriching.
+
 
 Chapter 1. Average Filter and Median Filter
 -------------------------------------------
@@ -7,6 +12,7 @@ Chapter 1. Average Filter and Median Filter
 * Source Code available [here](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/1.%20Average%20Filter%20and%20Median%20Filter/src/main.cpp)
 
 * Report with qualitative comparsion available [here](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/1.%20Average%20Filter%20and%20Median%20Filter/Chapter%201.%20Average%20Filter%20and%20Median%20Filter.pdf)
+
 
 Getting Started
 ---------------
@@ -26,6 +32,7 @@ Windows users can retain the existing **memory allocation header**:
 #include <mm_malloc.h>
 ```
 
+
 ### Configuring Input/Output Paths
 
 1. **Set Input Path:** In the `main()` function, update the input image path according to your requirements.
@@ -33,6 +40,7 @@ Windows users can retain the existing **memory allocation header**:
 2. **Enable Desired Functions:** In `TestReadImage()`, uncomment the functions you wish to use for image processing. Each function is documented for easy reference.
 
 3. **Execute the Program:** Run your program to see the results.
+
 
 Tutorial Preview：
 -----------------
