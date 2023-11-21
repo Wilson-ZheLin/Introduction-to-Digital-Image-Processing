@@ -1,5 +1,10 @@
-Digital Image Processing
-========================
+Digital Image Processing Tutorial (Chapter 8)
+=============================================
+
+👋 Hello and Welcome! 
+
+ You've stumbled upon an beginner-friendly yet in-depth tutorial for **Digital Image Processing**. This repository is perfect for beginners and anyone curious about the inner workings of image processing techniques. While packages like `OpenCV` make these methods easily accessible, understanding the mechanics behind them can be both fascinating and enriching.
+
 
 Chapter 8. Erosion, Dilation, Opening and Closing Operations, Boundary Extraction and Connection
 ------------------------------------------------------------------------------------------------
@@ -8,6 +13,36 @@ Chapter 8. Erosion, Dilation, Opening and Closing Operations, Boundary Extractio
 
 * Report with qualitative comparsion available [here](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/8.%20Erosion%2C%20Dilation%2C%20Opening%20and%20Closing%20Operations%2C%20Boundary%20Extraction%20and%20Connection/8.%20Erosion%2C%20Dilation%2C%20Opening%20and%20Closing%20Operations%2C%20Boundary%20Extraction%20and%20Connection.pdf)
 
-### Report Preview：
+
+Getting Started
+---------------
+### For MacOS:
+
+To ensure compatibility with MacOS, update the **memory allocation header** `#include <mm_malloc.h>` to `#include <malloc.h>`:
+
+```
+#include <malloc.h>
+```
+
+### For Windows:
+
+Windows users can retain the existing **memory allocation header**:
+
+```
+#include <mm_malloc.h>
+```
+
+
+### Configuring Input/Output Paths
+
+1. **Set Input Path:** In the `main()` function, update the input image path according to your requirements.
+
+2. **Enable Desired Functions:** In `TestReadImage()`, uncomment the functions you wish to use for image processing. Each function is documented for easy reference.
+
+3. **Execute the Program:** Run your program to see the results.
+
+
+Tutorial Preview：
+-----------------
 
 ![image](../static/ch8.png)
