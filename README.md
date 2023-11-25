@@ -5,6 +5,8 @@ Introduction to Digital Image Processing
 
  You've stumbled upon an beginner-friendly yet in-depth tutorial for **Digital Image Processing**. This repository is perfect for beginners and anyone curious about the inner workings of image processing techniques. While packages like `OpenCV` make these methods easily accessible, understanding the mechanics behind them can be both fascinating and enriching.
 
+Please give me a star if you like it! 🌟
+
 
 Getting Started
 ---------------
