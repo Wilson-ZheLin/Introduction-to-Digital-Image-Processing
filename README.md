@@ -1,5 +1,5 @@
-Introduction to Digital Image Processing
-========================================
+A Comprehensive Tutorials on Digital Image Processing
+=====================================================
 
 👋 Hello and Welcome! 
 
