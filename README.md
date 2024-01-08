@@ -38,7 +38,7 @@ Chapters
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/8.%20Erosion%2C%20Dilation%2C%20Opening%20and%20Closing%20Operations%2C%20Boundary%20Extraction%20and%20Connection/8.%20Erosion%2C%20Dilation%2C%20Opening%20and%20Closing%20Operations%2C%20Boundary%20Extraction%20and%20Connection.pdf)
 9. [
 Roberts, Prewitt, Sobel, Threshold, and Edge Detection
-](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection.pdf)
+](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/9.%20Thresholding%2C%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20and%20Edge%20Detection/9.%20Roberts%2C%20Prewitt%2C%20Sobel%2C%20Threshold%2C%20and%20Edge%20Detection.pdf)
 10. [
 Otus, Moving Average, and Region Growing
 ](https://github.com/Wilson-ZheLin/Introduction-to-Digital-Image-Processing/blob/main/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing/10.%20Otus%2C%20Moving%20Average%2C%20and%20Region%20Growing.pdf)
